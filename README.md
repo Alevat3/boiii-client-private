@@ -9,8 +9,3 @@ Make a backup of this as it might get removed.
 
 This is the link to the download from the xlabs website. (The orignal download)
 https://updater.xlabs.dev/boiii/boiii.exe
-
-
-
-
-And remember lads, subscribe to pewdiepie.
