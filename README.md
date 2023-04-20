@@ -1,6 +1,4 @@
 # boiii-client-private
-This is the private version of the client for supporters. (It's about time someone had the balls to leak this)
-
 Boiii.exe is the client, just copy the exe to the root folder of the game and play.
 
 t7_dlc.torrent is the dlc. you will need this if you don't have it.
